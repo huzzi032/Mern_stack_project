@@ -59,7 +59,7 @@ function Login() {
             <Link to="/" style={{fontSize:"18PX",fontWeight:"800",color:"black",marginTop:"5px"}}>
                 I don't have a accout
             </Link>
-            <div style={{marginTop:"10px",color:"blue",fontSize:"18PX",fontWeight:"800"}}> &copy; Developerd by Vipun Sanjana for beter web {date}</div>
+            <div style={{marginTop:"10px",color:"blue",fontSize:"18PX",fontWeight:"800"}}> &copy; Developerd by Huzaifa Tahir {date}</div>
         </div>
     )
 }

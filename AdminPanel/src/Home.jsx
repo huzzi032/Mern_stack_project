@@ -154,7 +154,7 @@ function Home() {
                 </ResponsiveContainer>
                 
             </div>
-            &copy; Developerd by Vipun Sanjana for beter web {date}
+            &copy; Developerd by Huzaifa Tahir{date}
         </main>
     )
 }
